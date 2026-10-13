@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:P;Athithyan;;;
+FN:Athithyan P
+ORG:Arcnio
+TITLE:Co-Founder & Developer
+TEL;TYPE=CELL,VOICE:+918098774559
+TEL;TYPE=WORK,VOICE:+919342499093
+EMAIL;TYPE=INTERNET,HOME:athithyanadhi00@gmail.com
+EMAIL;TYPE=INTERNET,WORK:info@arcnio.com
+URL;TYPE=WORK:https://www.arcnio.com
+URL;TYPE=HOME:https://athithyan.in
+URL:https://www.linkedin.com/in/athithyan-p-4289972a0/
+URL:https://github.com/Athithyan00
+ADR;TYPE=WORK:;;Hopes;Coimbatore;Tamil Nadu;;India
+NOTE:Co-Founder & Developer at Arcnio - AI\, Robotics\, Software\, Apps & Cybersecurity.
+END:VCARD
